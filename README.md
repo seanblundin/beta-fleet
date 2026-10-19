@@ -1,12 +1,20 @@
 # /beta-fleet
 
-A Claude Code skill that sends six first-time users through your app before you launch. Each one is a subagent in a real browser tab. Claude fixes everything they got stuck on, then sends in six fresh users to prove it worked.
+A Claude Code skill that sends five first-time users through your app before you launch. Each one is a subagent in a real browser tab. Claude fixes everything they got stuck on, then sends in five fresh users to prove it worked.
 
 Built on [this tweet](https://x.com/RoundtableSpace/status/2111717667228770611) by @RoundtableSpace. "Your first 100 real users won't tell you why they left. These 5 will."
 
 ## The fleet
 
-Six first-time users, each on Opus with high effort, each with one attitude: impatient, skeptical, on a phone, a non-native English speaker, trying to break it, and exactly who the product is for. You get back one short HTML page: what was fixed, what's still broken, and what's your call.
+Five first-time users, each on Opus with high effort:
+
+1. **The impatient one:** skims, clicks the first button, quits at the first error
+2. **The skeptic:** reads pricing, terms and privacy before signing up
+3. **The mobile user:** does everything on a 375px screen on slow 3G
+4. **The non-native English speaker:** only follows what the UI literally says
+5. **The breaker:** pastes junk into forms, hits back mid-flow, double-clicks everything
+
+You get back one short HTML page: what was fixed, what's still broken, and what's your call.
 
 ## Install
 
