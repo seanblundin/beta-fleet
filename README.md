@@ -17,7 +17,7 @@ Built on [this tweet](https://x.com/RoundtableSpace/status/2111717667228770611) 
 
 ## Install
 
-Paste this into Claude Code:
+Run this, or paste the tweet into Claude Code and let it do the setup:
 
 ```bash
 git clone https://github.com/seanblundin/beta-fleet.git ~/.claude/skills/beta-fleet
